@@ -10,8 +10,9 @@ A collection of web crawler applications using [Colly](http://go-colly.org/)
 
 ## StockX Shoe Scraper (Colly Framework)
 
-### Build
+[README](./cmd/stockx-shoe-scraper/README.md)
 
 ## Web Scraper from Scratch
 
-### Build
+[README](./cmd/web-scraper-from-scratch/README.md)
+
