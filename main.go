@@ -6,6 +6,11 @@ import (
 	"github.com/gocolly/colly"
 )
 
+type Shoe struct {
+	Name  string
+	Price string
+}
+
 func main() {
 	c := colly.NewCollector(
 		colly.AllowedDomains("stockx.com"),
